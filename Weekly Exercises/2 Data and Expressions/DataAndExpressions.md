@@ -1,8 +1,7 @@
 # ﻿2 Data and Expressions
-## Ensure you commit the exercises to GitHub .
+***Ensure you commit the exercises to GitHub.***
 
-
-# Programming Projects:
+## Programming Projects:
 ***1) Table of Student Grades***
 
 
