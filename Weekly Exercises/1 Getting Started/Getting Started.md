@@ -2,7 +2,7 @@
 ## Writing A Simple Java Program
 
 
-You commit all work to repos on yout GitHub account. You will be able to use this when you attempt the online tests (for marks).
+You commit all work to repos on yout GitHub account. You should use the standard assignment template in the Assessment directory. You will be able to use this when you attempt the online tests (for marks).
 
 
 You should include an associated README.md file which contains the output of the code when run.
@@ -14,15 +14,16 @@ This week you are going to undertake some simple development work which should a
 Start the your IDE.
 
 
-Programming Projects:
+## Programming Projects:
 
 
-## 1. Create a new project called “HelloWorld” and write a simple Java program that displays the message “Hello World” to the console.
+**1. Create a new project called “HelloWorld” and write a simple Java program that displays the message “Hello World” to the console.**
 
 
-## 2. “Test”. Enter, compile and run the following application
+**2. “Test”. Create a project, enter, compile and run the following application.**
 
 
+```
 public class Test
 {
    //----------------------------------------------------
@@ -33,26 +34,27 @@ public class Test
       System.out.println ("An Emergency Broadcast");
    }
 }
+```
 
 
 Introduce the following errors, one at a time. Note any messages that the compiler produces. Fix the previous error each time. If no error messages are produced, be prepared to explain why.
 
 
-1. Change Test to test
-2. Change Emergency to emergency.
-3. Remove the first quotation mark in the string.
-4. Change main to man
-5. Change println to bogus
-6. Remove the semicolon at the end of the println statement
-7. Remove the last brace in the program
+a. Change Test to test.\
+b. Change Emergency to emergency.\
+c. Remove the first quotation mark in the string.\
+d. Change main to man.\
+e. Change println to bogus.\
+f. Remove the semicolon at the end of the println statement.\
+g. Remove the last brace in the program.
 
 
-## 3. Create a second project called “PersonalDetails” and write a program that outputs some personal details to the screen, e.g. Name, Address, Age, Phone number etc.
+**3. Create a second project called “PersonalDetails” and write a program that outputs some personal details to the screen, e.g. Name, Address, Age, Phone number etc.**
 
 
-## 4. Write and application that prints the following diamond shape. Don’t print any unneeded characters
+**4. Write and application that prints the following diamond shape. Don’t print any unneeded characters**
 
-
+```
        *
       ***
      *****
@@ -61,13 +63,13 @@ Introduce the following errors, one at a time. Note any messages that the compil
       ***
        *
 
-
+```
 
 
 If you complete the exercises above, answer the following questions.
  
-a) What is the latest version of the Java SDK that is available?
-b) What is the difference between Java SE and Java ME?
-c) Which operating system is Java available for?
-d) What is the most popular IDE available for Java apart from Eclipse?
-e) What is the main() function for in a Java program?
+a. What is the latest version of the Java SDK that is available?\
+b. What is the difference between Java SE and Java ME?\
+c. Which operating system is Java available for?\
+d. What is the most popular IDE available for Java apart from Eclipse?\
+e. What is the main() function for in a Java program?
