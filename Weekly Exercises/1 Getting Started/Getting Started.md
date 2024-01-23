@@ -1,5 +1,5 @@
-#﻿1 Getting Started
-##Writing A Simple Java Program
+#﻿ 1 Getting Started
+## Writing A Simple Java Program
 
 
 You commit all work to repos on yout GitHub account. You will be able to use this when you attempt the online tests (for marks).
@@ -17,10 +17,10 @@ Start the your IDE.
 Programming Projects:
 
 
-##1. Create a new project called “HelloWorld” and write a simple Java program that displays the message “Hello World” to the console.
+## 1. Create a new project called “HelloWorld” and write a simple Java program that displays the message “Hello World” to the console.
 
 
-##2. “Test”. Enter, compile and run the following application
+## 2. “Test”. Enter, compile and run the following application
 
 
 public class Test
@@ -47,10 +47,10 @@ Introduce the following errors, one at a time. Note any messages that the compil
 7. Remove the last brace in the program
 
 
-##3. Create a second project called “PersonalDetails” and write a program that outputs some personal details to the screen, e.g. Name, Address, Age, Phone number etc.
+## 3. Create a second project called “PersonalDetails” and write a program that outputs some personal details to the screen, e.g. Name, Address, Age, Phone number etc.
 
 
-##4. Write and application that prints the following diamond shape. Don’t print any unneeded characters
+## 4. Write and application that prints the following diamond shape. Don’t print any unneeded characters
 
 
        *
