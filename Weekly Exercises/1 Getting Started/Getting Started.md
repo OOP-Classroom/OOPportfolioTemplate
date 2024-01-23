@@ -1,11 +1,11 @@
-#﻿ 1 Getting Started
+# 1 Getting Started
 ## Writing A Simple Java Program
 
 
 You commit all work to repos on yout GitHub account. You will be able to use this when you attempt the online tests (for marks).
 
 
-You should include your code, a screenshot of the results and some commentary of what went wrong and how you fixed it (you’ll be surprised how quickly you’ll forget).
+You should include an associated README.md file which contains the output of the code when run.
 
 
 This week you are going to undertake some simple development work which should allow you to become familiar with your IDE. There are many different IDEs and people can prefer different ones for different reasons. You may have used PyCharm for Python and so find IntelliJ more to your liking (both are made by JetBrains and are very similar). Your module leader prefers Eclipse, as it is more industry standard and highly configurable. The video material uses Eclipse. The choice is yours.
