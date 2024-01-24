@@ -8,37 +8,46 @@
 ## Weekly Exercises Completed
 **1 Getting Started**
 
-1 Hello World        -- to do
-2 Test               -- to do
-3 Personal Details   -- to do
-4 Diamonds           -- to do
+1 Hello World        -- to do\
+2 Test               -- to do\
+3 Personal Details   -- to do\
+4 Diamonds           -- to do\
 5 Questions          -- to do
 
 **2 Data and Expressions**
 
-1 Table of Student Grades  -- to do
-2 Computing Averages       -- to do
-3 Miles to Kilometers      -- to do
-4 Square Calculation       -- to do
+1 Table of Student Grades  -- to do\
+2 Computing Averages       -- to do\
+3 Miles to Kilometers      -- to do\
+4 Square Calculation       -- to do\
 5 Fraction -- to do        -- to do
 
 **3 Selection and Iteration**
 
-1 Computing a Pay Increase   -- to do
-2 Rock, Paper, Scissors      -- to do
-3 String Reverser            -- to do
+1 Computing a Pay Increase   -- to do\
+2 Rock, Paper, Scissors      -- to do\
+3 String Reverser            -- to do\
 4 Punctuation Marks          -- to do
 
 **4 Classes and Objects**
 
-1 Using String Objects     -- to do
-2 Dice                     -- to do
-3 Formatting Output        -- to do
-4 Pin Encryption           -- to do
+1 Using String Objects     -- to do\
+2 Dice                     -- to do\
+3 Formatting Output        -- to do\
+4 Pin Encryption           -- to do\
 5 Sphere Calculation       -- to do
 
 **5 and 6 Writing Classes and Methods**
 
+1 Sphere       -- to do\
+2 Books        -- to do\
+3 Bulb         -- to do\
+4 Accounts     -- to do\
+5 Cards        -- to do\
+
+**7 Inheritance**
+**8 Polymorphism**
+**9 Further Arrays**
 
 Enter your details above. Keep your portfolio up to date. You will also store your assignment here.
 You can use this file to keep any notes that you may find useful in the phase test.
