@@ -68,7 +68,7 @@
 
 1 Basic Application           -- to do\
 2 Command Processing          -- to do\
-3 Vali=dating Commands        -- to do\
+3 Validating Commands        -- to do\
 4 Loading and Saving          -- to do\
 5 Extending OOPGraphics library    -- to do\
 
