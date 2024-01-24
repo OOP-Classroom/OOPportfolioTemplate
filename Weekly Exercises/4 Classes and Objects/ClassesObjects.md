@@ -1,13 +1,12 @@
-﻿4 Classes and Objects
+# 4 Classes and Objects
 
-
-Ensure you commit the exercises to GitHub and give the repo and java files sensible names.
-
+***Ensure you commit the exercises to GitHub.***
 
 Resources:
-* The Java API documentation is located at: http://java.sun.com/javase/6/docs/api/
-Programming Projects:
-1) Using String Objects
+The Java API documentation is located at: (http://java.sun.com/javase/6/docs/api/)_
+
+## Programming Projects:
+***1) Using String Objects***
 
 
 Fill in the blanks in the program below as follows: 
@@ -19,7 +18,7 @@ Fill in the blanks in the program below as follows:
 (d)         complete the assignment statement so that change2 is the same as change1 except all lowercase “e's” are replaced with the asterisk (*) character.
 (e)         complete the assignment statement so that change3 is the concatenation of college and town (use the concat method of the String class rather than the + operator) 
 
-
+```
 // **************************************************
 //   StringPlay.java
 //
@@ -57,8 +56,8 @@ public class StringPlay
       System.out.println ("The final string is " + change3);
     }
 }
-
-
+```
+```
 Sample Output:
 
 
@@ -66,12 +65,10 @@ Sample Output:
 
 PoDunk College contains 14 characters.
 The final string is PoDunk CollegeAnytown, USA
-
-
-	
-
 ________________
-2) Dice
+```
+
+***2) Dice***
 
 
 Write a program that simulates rolling two dice using the following steps:
@@ -79,7 +76,7 @@ Write a program that simulates rolling two dice using the following steps:
 2. “Roll” the dice three times by generating a random number between 1 (inclusive) and the number of sides (inclusive).
 3. Keep track of the sum of the rolls for each die and output the sum and average for each die.
 
-
+```
 Sample Output:
 
 
@@ -96,11 +93,11 @@ Die 2 third roll = 9.
 Die 1 rolled a total of 9 and rolled 3 on average.
 Die 2 rolled a total of 43 and rolled 14.333 on average.
 
-
+```
 	
 
-3) Formatting Output
-http://tutorials.jenkov.com/java-internationalization/numberformat.html
+***3) Formatting Output***
+(http://tutorials.jenkov.com/java-internationalization/numberformat.html)
 
 
 The following source code contains a partial program that computes the cost of buying an item at a deli. Save the program to your directory and do the following: 
@@ -120,7 +117,7 @@ The following source code contains a partial program that computes the cost of b
 
 5. Add the statements to print a label in the following format (the numbers in the example output are correct for input of $4.25 per pound and 41 ounces). Use the formatting object money to print the unit price and total price and the formatting object fmt to print the weight to 2 decimal places. 
 
-
+```
       *****  CS Deli  *****
       
      Unit Price: $4.25 per pound
@@ -128,8 +125,9 @@ The following source code contains a partial program that computes the cost of b
       
      TOTAL:  $10.89
 
+```
 
-________________
+```
 // ********************************************************
 // DeliFormat.java
 //
@@ -203,7 +201,9 @@ public class Deli
 
    }
 }
-4) Pin Encryption
+```
+
+***4) Pin Encryption***
 
 
 Write a block of source code to encrypt a four digit pin number by doing the following:
@@ -213,21 +213,19 @@ Write a block of source code to encrypt a four digit pin number by doing the fol
 
 
 Sample Output:
-
-
-
+```
 
 Enter a 4 digit pin number to encrypt: 8491
 Your encrypted pin number is 1787212b12ef.
 
-
+```
 	
 
 
 
 
 
-5) Sphere Calculations
+***5) Sphere Calculations***
 
 
 Write and application that reads the radius of a sphere and prints its volume and surface area. Use the following formulas, where r represents the radius of the sphere. Print the output to four decimal places.
