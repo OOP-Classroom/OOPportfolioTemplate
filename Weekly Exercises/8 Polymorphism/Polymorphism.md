@@ -1,6 +1,8 @@
 # ﻿7 Polymorphism
 ***Ensure you commit the exercises to GitHub and give the repo and java files sensible names.***
 
+
+[Example Programs](https://github.com/LBU-OOP/PolymorphismExamples)
 # Programming Projects:
 ***1) Firm Vacation***
 
