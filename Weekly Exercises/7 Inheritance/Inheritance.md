@@ -1,6 +1,8 @@
 # ﻿6 Inheritance
 ***Ensure you commit the exercises to GitHub and give the repo and java files sensible names.***
 
+
+[Example Programs](https://github.com/LBU-OOP/InheritanceExamples)
 ## Programming Projects:
 ***1) Hospital***
 
