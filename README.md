@@ -5,7 +5,9 @@
 ### Your Group
 ### Your Tutor
 
-## Weekly Exercises Completed
+
+
+## Work Schedule
 **1 Getting Started**
 
 1 Hello World        -- to do\
@@ -43,12 +45,34 @@
 2 Books        -- to do\
 3 Bulb         -- to do\
 4 Accounts     -- to do\
-5 Cards        -- to do\
+5 Cards        -- to do
 
 **7 Inheritance**
+
+1 Hospital            -- to do\
+2 Player Statistics   -- to do
+
 **8 Polymorphism**
+
+1 Firm Vacation           -- to do\
+2 Password                -- to do
+
 **9 Further Arrays**
 
+1 Histogram             -- to do\
+2 L&L Bank Accounts     -- to do\
+3 Post Codes            -- to do\
+4 Quiz Time             -- to do
+
+**Turtle Graphics Assignment**
+
+1 Basic Application           -- to do\
+2 Command Processing          -- to do\
+3 Vali=dating Commands        -- to do\
+4 Loading and Saving          -- to do\
+5 Extending OOPGraphics library    -- to do\
+
+## The small print
 Enter your details above. Keep your portfolio up to date. You will also store your assignment here.
 You can use this file to keep any notes that you may find useful in the phase test.
 
